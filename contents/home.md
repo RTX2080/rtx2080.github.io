@@ -12,7 +12,7 @@ I am Xuyang Ma, currently a third-year master student at ICT,CAS, supervised by 
 
 2021.9 - 2024.6, Wireless Communication Laboratory, Institute of Computing Technology, Chinese Academy of Sciences.
 
-2017.09 - 2021.6, Software Engineering, School of Software Engineering, Shandong University.
+2017.9 - 2021.6, Software Engineering, School of Software Engineering, Shandong University.
 
 #### Research Interests
 Computer Graphics

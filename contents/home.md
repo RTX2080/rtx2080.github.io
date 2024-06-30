@@ -1,6 +1,6 @@
 
 #### Biography
-I am Xuyang Ma, currently a third-year master student at ICT,CAS, supervised by Prof. Yiqing Zhou. During my master studies, my research focus on satellite communications, but I'm not interested in it. Before master studies, I reveived my bachelor degree from School of Software Engineering at Shandong University, advised by Prof. Rongjiang Pan. 
+I am Xuyang Ma, currently a first-year PhD student at Singapore University of Technology and Design (SUTD), under supervision of Prof. [Peng Song](https://songpenghit.github.io/). Previously, I received my master degree from Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), supervised by Prof. Yiqing Zhou. Before master studies, I reveived my bachelor degree from School of Software Engineering at Shandong University, advised by Prof. Rongjiang Pan. 
 
 #### Contact
 * Email: fsthfsakura\@foxmail.com
@@ -18,7 +18,8 @@ I am Xuyang Ma, currently a third-year master student at ICT,CAS, supervised by 
 Computer Graphics
 
 #### Misc
-* I love playing table tennis. My table is **HARIMOTO TOMOKAZU ALC**, with forehand D05, backhand ROZENA. Besides, I am a beginner of badminton, with Victory TK-HMR_L. 
+
+* I love playing table tennis. My table is HARIMOTO TOMOKAZU ALC, with forehand D05, backhand ROZENA. Besides, I am a beginner of badminton, with Victory TK-HMR_L. 
 * I am a beginner of go, with Amateur 1d. Besides, I like playing Chinese chess. I received Honorable Mention
 from Chinese University Mind Sports Association when I was a freshman.
 * More than 4000 hours League of Legends, ranking Platinum III in S9.

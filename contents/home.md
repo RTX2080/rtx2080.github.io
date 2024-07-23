@@ -19,7 +19,7 @@ Computer Graphics
 
 #### Misc
 
-* I love playing table tennis. My table is HARIMOTO TOMOKAZU ALC, with forehand D05, backhand ROZENA. Besides, I am a beginner of badminton, with Victory TK-HMR_L. 
+* I love playing table tennis. My table is HARIMOTO TOMOKAZU ALC, with forehand D05, backhand ROZENA. Besides, I am a beginner of badminton, with Victory TK-HMR_L.   Unfortunately,I have a Ⅱ° meniscus injury.
 * I am a beginner of go, with Amateur 1d. Besides, I like playing Chinese chess. I received Honorable Mention
 from Chinese University Mind Sports Association when I was a freshman.
 * More than 4000 hours League of Legends, ranking Platinum III in S9.

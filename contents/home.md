@@ -4,8 +4,7 @@ I am Xuyang Ma, currently a first-year PhD student at Singapore University of Te
 
 #### Contact
 * Email: fsthfsakura\@foxmail.com
-* bilibili: [二研冰](https://space.bilibili.com/181720866)
-* codeforces: [gtx1080](https://codeforces.com/profile/gtx1080)
+* Steam: [455411924](https://steamcommunity.com/profiles/76561198415677652/)
 
 #### Education
 2024.9 - Present, Computer Graphics Laboratory, Pillar of Information Systems Technology and Design, Singapore University of Technology and Design. 
@@ -19,9 +18,9 @@ Computer Graphics
 
 #### Misc
 
-* I love playing table tennis. My table is HARIMOTO TOMOKAZU ALC, with forehand D05, backhand ROZENA. Besides, I am a beginner of badminton, with Victory TK-HMR_L. Unfortunately, I have a Ⅱ° meniscus injury.
-* I am a beginner of go, with Amateur 1d. Besides, I like playing Chinese chess. I received Honorable Mention
+* Table tennis. Unfortunately, I have a Ⅱ° meniscus injury.
+* Go, with Amateur 1d. Chinese chess, with Honorable Mention
 from Chinese University Mind Sports Association when I was a freshman.
 * More than 4000 hours League of Legends, ranking Platinum III in S9.
-* Genshin Impact Level 60.
+* Genshin Impact & Wuthering Waves. 
 * rhythm game, majsoul, fgo, ···

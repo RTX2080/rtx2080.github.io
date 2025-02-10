@@ -3,7 +3,7 @@
 I am Xuyang Ma, currently a first-year PhD student at Singapore University of Technology and Design (SUTD), under supervision of Prof. [Peng Song](https://songpenghit.github.io/). Previously, I received my master degree from Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), supervised by Prof. Yiqing Zhou. Before master studies, I reveived my bachelor degree from School of Software Engineering at Shandong University, advised by Prof. Rongjiang Pan. 
 
 #### Contact
-* Email: fsthfsakura\@foxmail.com
+* Email: fsnhfsakura\@foxmail.com
 * Steam: [455411924](https://steamcommunity.com/profiles/76561198415677652/)
 
 #### Education
